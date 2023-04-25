@@ -1,8 +1,8 @@
 # EDA-London-Crime-2022-Visualization
 
 Problem 1: what is the total number of crime in London in 2022?
-EDA-London-Crime-2022-Visualization/Answer/SnapCrab_NoName_2023-4-24_23-25-19_No-00.png
 
+![SnapCrab_NoName_2023-4-24_23-25-19_No-00](https://user-images.githubusercontent.com/131003972/234292020-f6ee981b-956e-4b3b-b60b-8aadf91ccd58.png)
 
 Problem 2: What is the top 3 areas in crime?
 
