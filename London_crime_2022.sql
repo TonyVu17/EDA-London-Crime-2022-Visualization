@@ -4,8 +4,7 @@ SELECT
 FROM
     london_crime;
     
-    
-
+  
 ###Problem 2: What is the top 3 areas in crime?
 
 SELECT 
