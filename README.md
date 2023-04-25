@@ -15,8 +15,17 @@ Problem 3: What is top 3 crime sections in London?
 
 
 Problem 4: What is the total crime each month?	
- 
+
+
+
  ![SnapCrab_NoName_2023-4-24_23-26-22_No-00](https://user-images.githubusercontent.com/131003972/234292471-dcb3332e-1932-46f9-9a6b-991cc246d45f.png)
+
+
+
+
+
+
+
 
 Problem 5: What is top 5 crime section in area?
 
