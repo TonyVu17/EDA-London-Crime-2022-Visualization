@@ -13,12 +13,10 @@ Problem 3: What is top 3 crime sections in London?
 
 ![SnapCrab_NoName_2023-4-24_23-25-57_No-00](https://user-images.githubusercontent.com/131003972/234292431-76318960-a138-458c-992b-8a87531939e4.png)
 
-
 Problem 4: What is the total crime each month?	
 
 
-
- ![SnapCrab_NoName_2023-4-24_23-26-22_No-00](https://user-images.githubusercontent.com/131003972/234292471-dcb3332e-1932-46f9-9a6b-991cc246d45f.png)
+![SnapCrab_NoName_2023-4-24_23-26-22_No-00](https://user-images.githubusercontent.com/131003972/234292471-dcb3332e-1932-46f9-9a6b-991cc246d45f.png)
 
 
 
