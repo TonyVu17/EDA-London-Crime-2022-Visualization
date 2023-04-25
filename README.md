@@ -6,6 +6,9 @@ Problem 1: what is the total number of crime in London in 2022?
 
 Problem 2: What is the top 3 areas in crime?
 
+![SnapCrab_NoName_2023-4-24_23-25-40_No-00](https://user-images.githubusercontent.com/131003972/234292315-50160a16-af31-448c-8152-43a705b9c911.png)
+
+
 Problem 3: What is top 3 crime sections in London?
 
 
